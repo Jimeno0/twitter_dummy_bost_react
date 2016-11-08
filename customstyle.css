@@ -1,0 +1,28 @@
+body{
+	background: #F0F0F0;
+}
+
+.white-bkg{
+	background-color: white
+}
+
+.money-munbers-color{
+	color:#FEAB4C;
+}
+
+.padding-2pc {
+	padding: 2%;
+}
+
+.rounded {
+	border-radius: 20px;
+}
+
+.border-button {
+	border-bottom: 1px rgba(0,0,0,0.2) solid;
+}
+
+.boxshadow {
+	box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.1);
+	margin-bottom: 5%;
+}
